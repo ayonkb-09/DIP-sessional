@@ -1,4 +1,4 @@
-#Lab 01
+<b>Lab 01</b><br>
 Taask 01:Take three float values in three variables by user input and find out the sum of threevalues.<br>
 Task-02: Take three lists, print them and find out the sum of three lists.<br>
 Task-03: Print the sum of first 100 numbers using for loop, while loop and do while loop.<br>
