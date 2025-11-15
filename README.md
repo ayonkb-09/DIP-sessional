@@ -17,3 +17,11 @@ Evaluation Task<br>
 6.Ask the user to enter the subject name (e.g., "Math") and print the grade using if-else based on marks.<br>
 7.Take three lists:o Print them and compute their element-wise sum using NumPy.<br>
 8.Dene the following numphy arrays.<br>
+<br>
+<b>Lab 02</b><br>
+Task 1. Take a 5x6 NumPy array and flip the 5x6 NumPy array using loop.<br>
+Task-02: Take a grayscale image and generate the mirror image of the original image. Show input and output image side by side in a subplot with a title.<br>
+Task-03: Take a grayscale image and generate the flipped image of the original image using loop. Show input and output image side by side in a subplot with a title.<br>
+Task-04: Take an 8-bit grayscale image and apply Thresholding such that the pixel having intensity values below 150 will be replaced by 0 and pixels having intensity value equal or above 150 will be replaced by 255. Display input and output image side by side in a subplot with a title.<br>
+Task-05: Take an 8-bit grayscale image and apply Thresholding such that the pixel having intensity values below 50 will be replaced by 0 and pixels having intensity value above 150 will be replaced by 255. Display input and output image side by side in a subplot with a title.<br>
+
