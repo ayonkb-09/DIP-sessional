@@ -7,7 +7,7 @@ img = cv2.imread(r"D:\3rd Year 2nd Semester\CSE-3216 Digital Image Processing Se
 
 # IMPORTANT CHECK
 if img is None:
-    raise FileNotFoundError(f"Could not read image at: {img_path}")
+    raise FileNotFoundError(f"Could not read image at: {img}")
 
 img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
